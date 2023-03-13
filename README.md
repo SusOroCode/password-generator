@@ -30,10 +30,10 @@ Please reference this photo for the password generator project.
 
 ![Password-Generator](../password-generator/Develop/assets/images/password-generator-screenshot.png)
 
-## Link
+## Link To Deployed Application
 
 Please refer to deployed application directly:
 
-[Susann Orosco Portfolio](https://susorocode.github.io/password-generator/)
+[Password Generator](https://susorocode.github.io/password-generator/)
 
 
