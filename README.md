@@ -28,7 +28,7 @@ CREDIT NOTES: I worked with a Tutor on putting statements into function, and wit
 Please reference this photo for the password generator project.
 
 
-![Password-Generator](../password-generator/Develop/assets/images/password-generator-screenshot.png)
+![Password-Generator](Develop/assets/images/password-generator-screenshot.png)
 
 ## Link To Deployed Application
 
