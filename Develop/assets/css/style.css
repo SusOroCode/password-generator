@@ -45,6 +45,10 @@ header {
   padding: 30px 40px;
 }
 
+.card-header h2 {
+  text-align: center;
+}
+
 .card-header::after {
   content: " ";
   display: block;
@@ -119,6 +123,17 @@ button[disabled] {
   border-radius: 6px;
   resize: none;
   overflow: hidden;
+}
+
+@media (max-width: 1500px) {
+  header {
+    color: hsl(146, 26%, 95%);
+    text-shadow: rgb(20, 20, 20) 1px 0 10px;
+  }
+
+  body {
+    background-image: url('../images/pexels-ylanite-koppens-1906607.jpg')
+  }
 }
 
 @media (max-width: 690px) {
