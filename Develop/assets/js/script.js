@@ -1,15 +1,11 @@
 // Assignment code here
 
-// added 4 arrays given by TA through Slack
-
 var upperCaseChar = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',];
 var lowerCaseChar = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',];
 var numericChar = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'];
 var specialChar = ['@', '%', '+', '\\', '/', "'", '!', '#', '$', '^', '?', ':', ',', ')', '(', '}', '{', ']', '[', '~', '-', '_', '.',];
 
 var allChar = [];
-
-
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
@@ -71,6 +67,10 @@ function generatePassword() {
   return generateAPassword;
 }
 
+// Worked with Tutor on putting first if statement into function
+
+// Classmate room, worked on concat method to merge arrays
+
 // Worked with classmate Serish on running the for loop properly. 
 
 // Add event listener to generate button
@@ -79,9 +79,6 @@ generateBtn.addEventListener("click", writePassword);
 
 // Resources: https://javascript.info/alert-prompt-confirm
 
-
-// Reference: https://developer.mozilla.org/en-US/docs/Web/API/Window/load_event
-// User Starting Point To Generate Password
 
 
 
