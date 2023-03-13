@@ -34,4 +34,4 @@ Please reference this photo for the password generator project.
 
 Please refer to deployed application directly:
 
-[Susann Orosco Portfolio](https://susorocode.github.io/portfolio/)
+[Susann Orosco Portfolio](https://susorocode.github.io/password-generator/)
